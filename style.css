@@ -1,0 +1,41 @@
+/* Global Style */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  background-color: rgb(23, 23, 27);
+  color: rgb(207, 205, 205);
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight:600;
+}
+
+div { margin-bottom: 20px;}
+/* Class style */
+.container {
+  padding-top: 50px;
+  width: 55rem;
+  margin: 0 auto;
+}
+
+.my-photo { border-radius:100% ;}
+
+.contacts{
+  line-height: 150%;
+}
+
+.about { margin-bottom: 20px; 
+          line-height: 200%;
+}
+
+.code-example { 
+    border-radius:10px;
+    background-color: rgb(35, 35, 41); 
+
+}
+
+.main-link{
+  color:#4D5EF8 ;
+  text-decoration: none;
+}

@@ -1,2 +1,3 @@
-# avovchinnikov.github.io
-my cv
+https://marmegot.github.io/rsschool-cv/
+
+
